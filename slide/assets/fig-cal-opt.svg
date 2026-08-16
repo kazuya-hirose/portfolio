@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" width="460" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Yu Gothic, Noto Sans JP, Meiryo, sans-serif">
+  <polyline points="50,280 50,20" stroke="#888" stroke-width="1.5" fill="none"/>
+  <polyline points="50,280 460,280" stroke="#888" stroke-width="1.5" fill="none"/>
+  <line x1="50" y1="241" x2="460" y2="20" stroke="#2980b9" stroke-width="3"/>
+  <polyline points="110.3,156.5 170.6,146.75 230.9,130.5 291.2,107.75 351.5,78.5 411.8,42.75"
+    stroke="#e67e22" stroke-width="2.5" stroke-dasharray="6 4" fill="none"/>
+  <polyline points="50,200.4 110.3,193.9 200.75,159.75 230.9,141.9 291.2,96.4"
+    stroke="#8e44ad" stroke-width="2.5" stroke-dasharray="6 4" fill="none"/>
+  <circle cx="50" cy="241" r="4.5" fill="#1f2933"/>
+  <circle cx="267.1" cy="124" r="4.5" fill="#1f2933"/>
+  <circle cx="351.5" cy="78.5" r="5" fill="#c0392b"/>
+  <circle cx="200.75" cy="159.75" r="5" fill="#8e44ad"/>
+  <text x="35" y="245" text-anchor="end" font-size="15">r_f</text>
+  <text x="267.1" y="118" text-anchor="middle" font-size="15" font-weight="bold">S</text>
+  <text x="360" y="72" font-size="15" fill="#c0392b" font-weight="bold">P₁ (γ=2)</text>
+  <text x="130" y="176" font-size="15" fill="#8e44ad" font-weight="bold">P₂ (γ=4)</text>
+  <text x="460" y="298" text-anchor="end" font-size="14">σ（%）</text>
+  <text x="15" y="26" font-size="14">μ（%）</text>
+</svg>

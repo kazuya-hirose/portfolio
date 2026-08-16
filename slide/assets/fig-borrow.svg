@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 320" width="440" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Yu Gothic, Noto Sans JP, Meiryo, sans-serif">
+  <polyline points="50,280 50,20" stroke="#888" stroke-width="1.5" fill="none"/>
+  <polyline points="50,280 440,280" stroke="#888" stroke-width="1.5" fill="none"/>
+  <polyline points="286.2,192.25 262.8,182.5 244.1,172.75 231.7,163 227,152.5 230.8,143.5 241.9,133.75 259.6,124 282.3,114.25 308.9,104.5 337.9,94.75 369.1,85 401.8,75.25 435.3,65.5"
+    stroke="#16a085" stroke-width="1.5" fill="none" opacity="0.6"/>
+  <line x1="253.9" y1="126.8" x2="351.4" y2="76.9" stroke="#999" stroke-dasharray="4 3" stroke-width="2"/>
+  <line x1="50" y1="198.75" x2="297" y2="108.7" stroke="#999" stroke-dasharray="4 3" stroke-width="2"/>
+  <line x1="50" y1="231.25" x2="253.9" y2="126.8" stroke="#2980b9" stroke-width="3.5"/>
+  <polyline points="259.6,124 282.3,114.25 308.9,104.5" stroke="#2980b9" stroke-width="3.5" fill="none"/>
+  <line x1="297" y1="108.7" x2="387" y2="75.9" stroke="#2980b9" stroke-width="3.5"/>
+  <circle cx="50" cy="231.25" r="4.5" fill="#1f2933"/>
+  <circle cx="50" cy="198.75" r="4.5" fill="#1f2933"/>
+  <circle cx="253.9" cy="126.8" r="5" fill="#c0392b"/>
+  <circle cx="297" cy="108.7" r="5" fill="#c0392b"/>
+  <text x="35" y="235" text-anchor="end" font-size="14">r_L</text>
+  <text x="35" y="202" text-anchor="end" font-size="14">r_B</text>
+  <text x="253.9" y="117" text-anchor="middle" font-size="15" font-weight="bold" fill="#c0392b">T_L</text>
+  <text x="297" y="99" text-anchor="middle" font-size="15" font-weight="bold" fill="#c0392b">T_B</text>
+  <text x="140" y="245" font-size="13" fill="#2980b9">貸出：安全資産+T_L</text>
+  <text x="300" y="60" font-size="13" fill="#2980b9">借入：T_B+レバレッジ</text>
+  <text x="230" y="185" font-size="13" fill="#16a085">フロンティアに沿う</text>
+  <text x="440" y="298" text-anchor="end" font-size="14">σ_p（%）</text>
+  <text x="15" y="26" font-size="14">μ_p（%）</text>
+</svg>

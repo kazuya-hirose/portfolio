@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 220" width="380" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Yu Gothic, Noto Sans JP, Meiryo, sans-serif">
+  <line x1="30" y1="180" x2="380" y2="180" stroke="#ccc" stroke-width="1"/>
+  <line x1="30" y1="180" x2="260" y2="180" stroke="#16a085" stroke-width="4"/>
+  <line x1="30" y1="180" x2="320" y2="180" stroke="#999" stroke-width="2" stroke-dasharray="4 3"/>
+  <line x1="320" y1="180" x2="320" y2="60" stroke="#999" stroke-width="2" stroke-dasharray="4 3"/>
+  <polyline points="308,180 308,168 320,168" stroke="#999" stroke-width="1.5" fill="none"/>
+  <line x1="30" y1="180" x2="320" y2="60" stroke="#c0392b" stroke-width="4"/>
+  <polygon points="380,180 368,175 368,185" fill="#16a085"/>
+  <polygon points="313,53 316,66 328,63" fill="#c0392b" transform="rotate(22 320 60)"/>
+  <text x="130" y="172" text-anchor="middle" font-size="18" fill="#16a085">R_M（市場）</text>
+  <text x="290" y="200" text-anchor="middle" font-size="16" fill="#666">β_i R_M</text>
+  <text x="332" y="120" font-size="16" fill="#666">e_i（固有）</text>
+  <text x="200" y="105" font-size="18" fill="#c0392b" transform="rotate(-24 200 105)">R_i（資産 i）</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 340" width="380" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Yu Gothic, Noto Sans JP, Meiryo, sans-serif">
+  <line x1="20" y1="170" x2="380" y2="170" stroke="#888" stroke-width="1.5"/>
+  <line x1="200" y1="20" x2="200" y2="320" stroke="#888" stroke-width="1.5"/>
+  <line x1="40" y1="283.75" x2="360" y2="43.75" stroke="#c0392b" stroke-width="3"/>
+  <g fill="#1f2933">
+    <circle cx="60" cy="282.5" r="4"/>
+    <circle cx="100" cy="220" r="4"/>
+    <circle cx="120" cy="245" r="4"/>
+    <circle cx="160" cy="182.5" r="4"/>
+    <circle cx="180" cy="207.5" r="4"/>
+    <circle cx="200" cy="157.5" r="4"/>
+    <circle cx="220" cy="132.5" r="4"/>
+    <circle cx="240" cy="170" r="4"/>
+    <circle cx="260" cy="107.5" r="4"/>
+    <circle cx="280" cy="132.5" r="4"/>
+    <circle cx="300" cy="70" r="4"/>
+    <circle cx="320" cy="107.5" r="4"/>
+    <circle cx="340" cy="45" r="4"/>
+    <circle cx="360" cy="87.5" r="4"/>
+  </g>
+  <text x="385" y="174" font-size="15">Z_M (%)</text>
+  <text x="205" y="28" font-size="15">Z_i (%)</text>
+  <text x="55" y="55" font-size="15" fill="#c0392b">証券特性線</text>
+  <text x="55" y="75" font-size="14" fill="#c0392b">傾き=β̂_i，切片=α̂_i</text>
+</svg>

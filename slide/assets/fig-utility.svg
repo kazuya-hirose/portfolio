@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 320" width="560">
+  <polyline points="40,280 40,20" stroke="#888" stroke-width="1.5" fill="none"/>
+  <polyline points="40,280 580,280" stroke="#888" stroke-width="1.5" fill="none"/>
+  <polyline points="40,280 74.7,246.5 109.3,215.3 144,186.4 178.7,159.8 213.3,135.6 248,113.6 282.7,94.0 300,85.0 317.3,76.6 352,61.6 386.7,48.9 421.3,38.5 456,30.4 490.7,24.6 525.3,21.2 560,20"
+    stroke="#16a085" stroke-width="4" fill="none"/>
+  <circle cx="213.3" cy="135.6" r="4.5" fill="#1f2933"/>
+  <circle cx="386.7" cy="48.9" r="4.5" fill="#1f2933"/>
+  <line x1="213.3" y1="280" x2="213.3" y2="135.6" stroke="#bbb" stroke-dasharray="4 3"/>
+  <line x1="386.7" y1="280" x2="386.7" y2="48.9" stroke="#bbb" stroke-dasharray="4 3"/>
+  <text x="213.3" y="300" text-anchor="middle" font-size="18">50</text>
+  <text x="386.7" y="300" text-anchor="middle" font-size="18">100</text>
+  <text x="560" y="300" text-anchor="middle" font-size="18">x</text>
+  <text x="10" y="140" font-size="18">12,500</text>
+  <text x="10" y="53" font-size="18">20,000</text>
+  <text x="300" y="20" text-anchor="middle" font-size="18" fill="#0f4c5c">u(x)=300x-x²</text>
+</svg>

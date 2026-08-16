@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 300" width="440" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Yu Gothic, Noto Sans JP, Meiryo, sans-serif">
+  <polyline points="55,250 55,20" stroke="#888" stroke-width="1.5" fill="none"/>
+  <polyline points="55,250 440,250" stroke="#888" stroke-width="1.5" fill="none"/>
+  <line x1="55" y1="112" x2="440" y2="43" stroke="#c0392b" stroke-width="3"/>
+  <polyline points="55,112 93.5,124.1 132,132.1 173.5,135.2 209,132.7 247.5,125.6 286,114.1 324.5,99.3 363,82.1 401.5,63.2 440,43"
+    stroke="#16a085" stroke-width="3" fill="none"/>
+  <polyline points="55,112 93.5,146.5 132,181 170.5,215.5 209,250 247.5,215.5 286,181 324.5,146.5 363,112 401.5,77.5 440,43"
+    stroke="#2980b9" stroke-width="3" fill="none"/>
+  <text x="45" y="255" text-anchor="end" font-size="14">0</text>
+  <text x="440" y="270" text-anchor="middle" font-size="14">1</text>
+  <text x="45" y="116" text-anchor="end" font-size="14">12</text>
+  <text x="45" y="47" text-anchor="end" font-size="14">18</text>
+  <text x="440" y="290" text-anchor="end" font-size="15">w₁</text>
+  <text x="15" y="26" font-size="15">σ_p (%)</text>
+  <rect x="290" y="200" width="16" height="4" fill="#c0392b"/>
+  <text x="312" y="206" font-size="14">ρ=1</text>
+  <rect x="290" y="222" width="16" height="4" fill="#16a085"/>
+  <text x="312" y="228" font-size="14">ρ=0</text>
+  <rect x="290" y="244" width="16" height="4" fill="#2980b9"/>
+  <text x="312" y="250" font-size="14">ρ=-1</text>
+</svg>

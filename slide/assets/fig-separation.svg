@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 320" width="440" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Yu Gothic, Noto Sans JP, Meiryo, sans-serif">
+  <polyline points="50,280 50,20" stroke="#888" stroke-width="1.5" fill="none"/>
+  <polyline points="50,280 440,280" stroke="#888" stroke-width="1.5" fill="none"/>
+  <line x1="50" y1="231.25" x2="404.6" y2="49.6" stroke="#2980b9" stroke-width="3"/>
+  <circle cx="50" cy="231.25" r="4.5" fill="#1f2933"/>
+  <circle cx="253.9" cy="126.8" r="5.5" fill="#c0392b"/>
+  <circle cx="156.4" cy="176.7" r="5" fill="#8e44ad"/>
+  <circle cx="316" cy="95" r="5" fill="#e67e22"/>
+  <line x1="156.4" y1="176.7" x2="156.4" y2="280" stroke="#bbb" stroke-dasharray="3 3"/>
+  <line x1="253.9" y1="126.8" x2="253.9" y2="280" stroke="#bbb" stroke-dasharray="3 3"/>
+  <line x1="316" y1="95" x2="316" y2="280" stroke="#bbb" stroke-dasharray="3 3"/>
+  <text x="35" y="235" text-anchor="end" font-size="15">安全資産</text>
+  <text x="253.9" y="115" text-anchor="middle" font-size="16" font-weight="bold" fill="#c0392b">T</text>
+  <text x="140" y="167" text-anchor="end" font-size="14" fill="#8e44ad" font-weight="bold">P_B（γ大）</text>
+  <text x="330" y="90" font-size="14" fill="#e67e22" font-weight="bold">P_A（γ小）</text>
+  <text x="60" y="200" font-size="14" fill="#2980b9" transform="rotate(-24 60 200)">安全資産 + T</text>
+  <text x="440" y="298" text-anchor="end" font-size="14">σ_p（%）</text>
+  <text x="15" y="26" font-size="14">μ_p（%）</text>
+</svg>

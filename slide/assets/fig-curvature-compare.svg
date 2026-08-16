@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" width="420" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Yu Gothic, Noto Sans JP, Meiryo, sans-serif">
+  <polyline points="40,220 40,20" stroke="#888" stroke-width="1.5" fill="none"/>
+  <polyline points="40,220 380,220" stroke="#888" stroke-width="1.5" fill="none"/>
+  <line x1="40" y1="220" x2="380" y2="20" stroke="#ccc" stroke-dasharray="3 3"/>
+  <polyline points="40,220 96.7,158.9 153.3,108.9 210,70 266.7,42.2 323.3,25.6 380,20"
+    stroke="#16a085" stroke-width="4" fill="none"/>
+  <polyline points="40,220 96.7,174.8 153.3,134.3 210,98.6 266.7,67.6 323.3,41.4 380,20"
+    stroke="#8e44ad" stroke-width="4" fill="none"/>
+  <text x="140" y="80" font-size="16" fill="#16a085">u(x)=300x-x² （曲率大）</text>
+  <text x="150" y="180" font-size="16" fill="#8e44ad">v(x)=500x-x² （曲率小）</text>
+</svg>

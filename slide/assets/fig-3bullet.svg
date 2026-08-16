@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 320" width="440" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Yu Gothic, Noto Sans JP, Meiryo, sans-serif">
+  <polyline points="50,280 50,20" stroke="#888" stroke-width="1.5" fill="none"/>
+  <polyline points="50,280 440,280" stroke="#888" stroke-width="1.5" fill="none"/>
+  <path d="M121.9,217.2 C150,175 200,130 260,95 C330,65 370,50 399,41.6 L420,120 C350,200 250,250 121.9,217.2 Z"
+    fill="#16a085" opacity="0.18" stroke="none"/>
+  <path d="M121.9,217.2 C150,175 200,130 260,95 C330,65 370,50 399,41.6"
+    stroke="#2980b9" stroke-width="3.5" fill="none"/>
+  <circle cx="121.9" cy="217.2" r="5" fill="#c0392b"/>
+  <circle cx="132.1" cy="236.7" r="4.5" fill="#1f2933"/>
+  <circle cx="214.2" cy="193.3" r="4.5" fill="#1f2933"/>
+  <circle cx="399" cy="41.6" r="4.5" fill="#1f2933"/>
+  <text x="105" y="234" text-anchor="end" font-size="13" fill="#c0392b">最小分散点</text>
+  <text x="132.1" y="256" text-anchor="middle" font-size="13">資産1</text>
+  <text x="230" y="212" text-anchor="middle" font-size="13">資産2</text>
+  <text x="399" y="30" text-anchor="middle" font-size="13">資産3</text>
+  <text x="150" y="90" font-size="15" fill="#2980b9">効率的フロンティア</text>
+  <text x="290" y="180" font-size="15" fill="#16a085">投資可能集合</text>
+  <text x="440" y="298" text-anchor="end" font-size="14">σ_p（%）</text>
+  <text x="15" y="26" font-size="14">μ_p（%）</text>
+</svg>

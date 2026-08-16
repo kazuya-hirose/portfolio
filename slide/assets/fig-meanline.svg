@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 300" width="440" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Yu Gothic, Noto Sans JP, Meiryo, sans-serif">
+  <polyline points="55,250 55,20" stroke="#888" stroke-width="1.5" fill="none"/>
+  <polyline points="55,250 440,250" stroke="#888" stroke-width="1.5" fill="none"/>
+  <line x1="55" y1="151.4" x2="440" y2="52.9" stroke="#2980b9" stroke-width="3.5"/>
+  <circle cx="55" cy="151.4" r="4" fill="#1f2933"/>
+  <circle cx="209" cy="112" r="4.5" fill="#c0392b"/>
+  <circle cx="440" cy="52.9" r="4" fill="#1f2933"/>
+  <line x1="209" y1="250" x2="209" y2="112" stroke="#bbb" stroke-dasharray="4 3"/>
+  <line x1="55" y1="112" x2="209" y2="112" stroke="#bbb" stroke-dasharray="4 3"/>
+  <text x="45" y="255" text-anchor="end" font-size="14">0</text>
+  <text x="209" y="270" text-anchor="middle" font-size="14">w₁=0.4</text>
+  <text x="440" y="270" text-anchor="middle" font-size="14">1</text>
+  <text x="45" y="156" text-anchor="end" font-size="14">6</text>
+  <text x="45" y="116" text-anchor="end" font-size="14">8.4</text>
+  <text x="45" y="58" text-anchor="end" font-size="14">12</text>
+  <text x="440" y="290" text-anchor="end" font-size="15">w₁</text>
+  <text x="15" y="26" font-size="15">μ_p (%)</text>
+</svg>

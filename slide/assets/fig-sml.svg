@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" width="460" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Yu Gothic, Noto Sans JP, Meiryo, sans-serif">
+  <polyline points="55,250 55,20" stroke="#888" stroke-width="1.5" fill="none"/>
+  <polyline points="55,250 460,250" stroke="#888" stroke-width="1.5" fill="none"/>
+  <line x1="71.2" y1="250" x2="443.8" y2="23.3" stroke="#c0392b" stroke-width="3"/>
+  <circle cx="119.8" cy="220.4" r="4" fill="#1f2933"/>
+  <circle cx="152.2" cy="200.7" r="4" fill="#1f2933"/>
+  <circle cx="184.6" cy="181.0" r="4" fill="#1f2933"/>
+  <circle cx="281.8" cy="121.8" r="4" fill="#1f2933"/>
+  <circle cx="314.2" cy="102.1" r="4.5" fill="#1f2933"/>
+  <circle cx="379.0" cy="62.7" r="4" fill="#1f2933"/>
+  <text x="100" y="245" text-anchor="middle" font-size="12">株式4</text>
+  <text x="152.2" y="188" text-anchor="middle" font-size="13">r_f=3</text>
+  <text x="184.6" y="167" text-anchor="middle" font-size="12">株式1</text>
+  <text x="281.8" y="108" text-anchor="middle" font-size="12">株式2</text>
+  <text x="322" y="90" text-anchor="middle" font-size="14" font-weight="bold">M</text>
+  <text x="379.0" y="52.7" text-anchor="middle" font-size="12">株式3</text>
+  <text x="60" y="205" font-size="15" fill="#c0392b" transform="rotate(-25 60 205)">証券市場線 (SML)</text>
+  <text x="460" y="270" text-anchor="end" font-size="14">ベータ β_i</text>
+  <text x="18" y="26" font-size="14">期待リターン μ_i (%)</text>
+</svg>

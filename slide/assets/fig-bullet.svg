@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 320" width="440" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Yu Gothic, Noto Sans JP, Meiryo, sans-serif">
+  <polyline points="50,280 50,20" stroke="#888" stroke-width="1.5" fill="none"/>
+  <polyline points="50,280 440,280" stroke="#888" stroke-width="1.5" fill="none"/>
+  <line x1="284" y1="215" x2="401" y2="85" stroke="#c0392b" stroke-width="2.5"/>
+  <polyline points="284,215 50,163 401,85" stroke="#2980b9" stroke-width="2.5" fill="none"/>
+  <polyline points="284,215 263.5,202 249.9,189 244.6,175 248.9,163 261,150 280.5,137 305.5,124 334.7,111 366.7,98 401,85"
+    stroke="#16a085" stroke-width="3.5" fill="none"/>
+  <circle cx="284" cy="215" r="4.5" fill="#1f2933"/>
+  <circle cx="401" cy="85" r="4.5" fill="#1f2933"/>
+  <circle cx="249.9" cy="189" r="4.5" fill="#27ae60"/>
+  <circle cx="280.5" cy="137" r="4.5" fill="#27ae60"/>
+  <text x="284" y="235" text-anchor="middle" font-size="14">資産2</text>
+  <text x="401" y="70" text-anchor="middle" font-size="14">資産1</text>
+  <text x="235" y="183" text-anchor="end" font-size="14" fill="#27ae60">A</text>
+  <text x="290" y="132" font-size="14" fill="#27ae60">B</text>
+  <text x="440" y="298" text-anchor="end" font-size="14">σ_p（%）</text>
+  <text x="15" y="26" font-size="14">μ_p（%）</text>
+  <rect x="330" y="230" width="16" height="4" fill="#c0392b"/>
+  <text x="352" y="236" font-size="13">ρ=1</text>
+  <rect x="330" y="248" width="16" height="4" fill="#16a085"/>
+  <text x="352" y="254" font-size="13">ρ=0</text>
+  <rect x="330" y="266" width="16" height="4" fill="#2980b9"/>
+  <text x="352" y="272" font-size="13">ρ=-1</text>
+</svg>

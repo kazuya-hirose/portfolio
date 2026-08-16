@@ -1,0 +1,8 @@
+# このリポジトリでは slide/ のみを管理する（LaTeX 講義ノート本体はローカル管理）
+/*
+!/.gitignore
+!/slide/
+
+# macOS / Marp の生成物
+.DS_Store
+slide/*.html
