@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" width="440" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Yu Gothic, Noto Sans JP, Meiryo, sans-serif">
+  <polyline points="50,260 50,30" stroke="#888" stroke-width="1.5" fill="none"/>
+  <polyline points="50,260 450,260" stroke="#888" stroke-width="1.5" fill="none"/>
+  <line x1="250" y1="260" x2="250" y2="30" stroke="#bbb" stroke-width="1.2" stroke-dasharray="4 3"/>
+  <text x="250" y="278" text-anchor="middle" font-size="13">0日（公表）</text>
+  <text x="455" y="264" font-size="13">日数</text>
+  <text x="15" y="35" font-size="13">累積超過リターン</text>
+  <!-- efficient: flat, jump at 0, flat -->
+  <polyline points="50,220 250,220 250,110 450,110" stroke="#2980b9" stroke-width="3" fill="none"/>
+  <!-- underreaction: gradual rise after event -->
+  <path d="M50,220 L250,220 Q320,190 450,110" stroke="#16a085" stroke-width="3" stroke-dasharray="7 4" fill="none"/>
+  <!-- overreaction: jump above then revert -->
+  <path d="M50,220 L250,220 L250,70 Q330,90 450,110" stroke="#c0392b" stroke-width="3" stroke-dasharray="2 3" fill="none"/>
+  <!-- legend -->
+  <line x1="290" y1="55" x2="315" y2="55" stroke="#2980b9" stroke-width="3"/>
+  <text x="320" y="59" font-size="13" fill="#2980b9">効率的（瞬時に反映）</text>
+</svg>

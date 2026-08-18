@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" width="440" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Yu Gothic, Noto Sans JP, Meiryo, sans-serif">
+  <polyline points="50,260 50,30" stroke="#888" stroke-width="1.5" fill="none"/>
+  <polyline points="50,260 460,260" stroke="#888" stroke-width="1.5" fill="none"/>
+  <!-- x ticks -->
+  <text x="50" y="278" text-anchor="middle" font-size="13">0</text>
+  <text x="150" y="278" text-anchor="middle" font-size="13">2</text>
+  <text x="250" y="278" text-anchor="middle" font-size="13">4</text>
+  <text x="350" y="278" text-anchor="middle" font-size="13">6</text>
+  <text x="450" y="278" text-anchor="middle" font-size="13">8</text>
+  <text x="460" y="296" text-anchor="end" font-size="13">権利行使価格 K</text>
+  <text x="15" y="35" font-size="13">価格</text>
+  <!-- call polyline -->
+  <polyline points="50,158 150,194 200,212 250,224 350,248 450,260" stroke="#2980b9" stroke-width="3" fill="none"/>
+  <!-- put polyline -->
+  <polyline points="50,260 150,219 250,172 350,120 450,55" stroke="#c0392b" stroke-width="3" fill="none"/>
+  <!-- legend -->
+  <line x1="290" y1="45" x2="320" y2="45" stroke="#2980b9" stroke-width="3"/>
+  <text x="326" y="49" font-size="13" fill="#2980b9">コール C(K)</text>
+  <line x1="290" y1="65" x2="320" y2="65" stroke="#c0392b" stroke-width="3"/>
+  <text x="326" y="69" font-size="13" fill="#c0392b">プット P(K)</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" width="420" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Yu Gothic, Noto Sans JP, Meiryo, sans-serif">
+  <line x1="60" y1="150" x2="240" y2="70" stroke="#555" stroke-width="1.8"/>
+  <line x1="60" y1="150" x2="240" y2="230" stroke="#555" stroke-width="1.8"/>
+  <line x1="240" y1="70" x2="420" y2="20" stroke="#555" stroke-width="1.8"/>
+  <line x1="240" y1="70" x2="420" y2="150" stroke="#555" stroke-width="1.8"/>
+  <line x1="240" y1="230" x2="420" y2="150" stroke="#555" stroke-width="1.8"/>
+  <line x1="240" y1="230" x2="420" y2="280" stroke="#555" stroke-width="1.8"/>
+  <text x="60" y="150" text-anchor="middle" dominant-baseline="middle" font-size="17" font-weight="bold">100</text>
+  <text x="240" y="70" text-anchor="middle" dominant-baseline="middle" font-size="17" font-weight="bold">200</text>
+  <text x="240" y="230" text-anchor="middle" dominant-baseline="middle" font-size="17" font-weight="bold">50</text>
+  <text x="420" y="20" text-anchor="middle" dominant-baseline="middle" font-size="17" font-weight="bold">400</text>
+  <text x="420" y="150" text-anchor="middle" dominant-baseline="middle" font-size="17" font-weight="bold">100</text>
+  <text x="420" y="280" text-anchor="middle" dominant-baseline="middle" font-size="17" font-weight="bold">25</text>
+  <text x="60" y="290" text-anchor="middle" font-size="14" fill="#555">t=0</text>
+  <text x="240" y="290" text-anchor="middle" font-size="14" fill="#555">t=1</text>
+  <text x="420" y="290" text-anchor="middle" font-size="14" fill="#555">t=2</text>
+</svg>
