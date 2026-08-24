@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 310" width="800" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Yu Gothic, Noto Sans JP, Meiryo, sans-serif">
+<text x="210" y="22" text-anchor="middle" font-size="14" font-weight="700">図5-1　コール・オプション</text>
+<text x="8" y="44" font-size="11.5" fill="#333">オプションの価値</text>
+<line x1="56" y1="62" x2="56" y2="262" stroke="#888" stroke-width="1.4"/>
+<line x1="56" y1="262.0" x2="352" y2="262.0" stroke="#888" stroke-width="1.4"/>
+<line x1="52" y1="262.0" x2="56" y2="262.0" stroke="#888" stroke-width="1"/>
+<text x="48" y="266.0" text-anchor="end" font-size="11">0</text>
+<line x1="52" y1="228.7" x2="56" y2="228.7" stroke="#888" stroke-width="1"/>
+<text x="48" y="232.7" text-anchor="end" font-size="11">1</text>
+<line x1="52" y1="195.3" x2="56" y2="195.3" stroke="#888" stroke-width="1"/>
+<text x="48" y="199.3" text-anchor="end" font-size="11">2</text>
+<line x1="52" y1="162.0" x2="56" y2="162.0" stroke="#888" stroke-width="1"/>
+<text x="48" y="166.0" text-anchor="end" font-size="11">3</text>
+<line x1="52" y1="128.7" x2="56" y2="128.7" stroke="#888" stroke-width="1"/>
+<text x="48" y="132.7" text-anchor="end" font-size="11">4</text>
+<line x1="52" y1="95.3" x2="56" y2="95.3" stroke="#888" stroke-width="1"/>
+<text x="48" y="99.3" text-anchor="end" font-size="11">5</text>
+<line x1="52" y1="62.0" x2="56" y2="62.0" stroke="#888" stroke-width="1"/>
+<text x="48" y="66.0" text-anchor="end" font-size="11">6</text>
+<line x1="56.0" y1="262" x2="56.0" y2="266" stroke="#888" stroke-width="1"/>
+<text x="56.0" y="280.0" text-anchor="middle" font-size="11">0</text>
+<line x1="105.3" y1="262" x2="105.3" y2="266" stroke="#888" stroke-width="1"/>
+<text x="105.3" y="280.0" text-anchor="middle" font-size="11">2</text>
+<line x1="154.7" y1="262" x2="154.7" y2="266" stroke="#888" stroke-width="1"/>
+<text x="154.7" y="280.0" text-anchor="middle" font-size="11">4</text>
+<line x1="204.0" y1="262" x2="204.0" y2="266" stroke="#888" stroke-width="1"/>
+<text x="204.0" y="280.0" text-anchor="middle" font-size="11">6</text>
+<line x1="253.3" y1="262" x2="253.3" y2="266" stroke="#888" stroke-width="1"/>
+<text x="253.3" y="280.0" text-anchor="middle" font-size="11">8</text>
+<line x1="302.7" y1="262" x2="302.7" y2="266" stroke="#888" stroke-width="1"/>
+<text x="302.7" y="280.0" text-anchor="middle" font-size="11">10</text>
+<line x1="352.0" y1="262" x2="352.0" y2="266" stroke="#888" stroke-width="1"/>
+<text x="352.0" y="280.0" text-anchor="middle" font-size="11">12</text>
+<text x="352" y="298" text-anchor="end" font-size="12">権利行使価格</text>
+<polyline points="56.0,101.0 80.7,120.0 105.3,139.0 130.0,158.0 154.7,177.0 179.3,187.0 204.0,197.0 228.7,207.0 253.3,217.0 278.0,227.0 302.7,237.0 327.3,242.0 352.0,247.0" stroke="#c0392b" stroke-width="2.6" fill="none"/>
+<circle cx="56.0" cy="101.0" r="2.6" fill="#c0392b"/>
+<circle cx="80.7" cy="120.0" r="2.6" fill="#c0392b"/>
+<circle cx="105.3" cy="139.0" r="2.6" fill="#c0392b"/>
+<circle cx="130.0" cy="158.0" r="2.6" fill="#c0392b"/>
+<circle cx="154.7" cy="177.0" r="2.6" fill="#c0392b"/>
+<circle cx="179.3" cy="187.0" r="2.6" fill="#c0392b"/>
+<circle cx="204.0" cy="197.0" r="2.6" fill="#c0392b"/>
+<circle cx="228.7" cy="207.0" r="2.6" fill="#c0392b"/>
+<circle cx="253.3" cy="217.0" r="2.6" fill="#c0392b"/>
+<circle cx="278.0" cy="227.0" r="2.6" fill="#c0392b"/>
+<circle cx="302.7" cy="237.0" r="2.6" fill="#c0392b"/>
+<circle cx="327.3" cy="242.0" r="2.6" fill="#c0392b"/>
+<circle cx="352.0" cy="247.0" r="2.6" fill="#c0392b"/>
+<text x="258.3" y="193.7" font-size="12.5" fill="#c0392b" font-weight="700" text-anchor="middle">コールY</text>
+<polyline points="56.0,177.0 80.7,192.0 105.3,207.0 130.0,222.0 154.7,232.0 179.3,242.0 204.0,252.0 228.7,257.0 253.3,262.0 278.0,262.0 302.7,262.0 327.3,262.0 352.0,262.0" stroke="#2980b9" stroke-width="2.6" fill="none"/>
+<circle cx="56.0" cy="177.0" r="2.6" fill="#2980b9"/>
+<circle cx="80.7" cy="192.0" r="2.6" fill="#2980b9"/>
+<circle cx="105.3" cy="207.0" r="2.6" fill="#2980b9"/>
+<circle cx="130.0" cy="222.0" r="2.6" fill="#2980b9"/>
+<circle cx="154.7" cy="232.0" r="2.6" fill="#2980b9"/>
+<circle cx="179.3" cy="242.0" r="2.6" fill="#2980b9"/>
+<circle cx="204.0" cy="252.0" r="2.6" fill="#2980b9"/>
+<circle cx="228.7" cy="257.0" r="2.6" fill="#2980b9"/>
+<circle cx="253.3" cy="262.0" r="2.6" fill="#2980b9"/>
+<circle cx="278.0" cy="262.0" r="2.6" fill="#2980b9"/>
+<circle cx="302.7" cy="262.0" r="2.6" fill="#2980b9"/>
+<circle cx="327.3" cy="262.0" r="2.6" fill="#2980b9"/>
+<circle cx="352.0" cy="262.0" r="2.6" fill="#2980b9"/>
+<text x="162.1" y="213.7" font-size="12.5" fill="#2980b9" font-weight="700" text-anchor="middle">コールX</text>
+<text x="610" y="22" text-anchor="middle" font-size="14" font-weight="700">図5-2　プット・オプション</text>
+<text x="408" y="44" font-size="11.5" fill="#333">オプションの価値</text>
+<line x1="456" y1="62" x2="456" y2="262" stroke="#888" stroke-width="1.4"/>
+<line x1="456" y1="262.0" x2="752" y2="262.0" stroke="#888" stroke-width="1.4"/>
+<line x1="452" y1="262.0" x2="456" y2="262.0" stroke="#888" stroke-width="1"/>
+<text x="448" y="266.0" text-anchor="end" font-size="11">0</text>
+<line x1="452" y1="222.0" x2="456" y2="222.0" stroke="#888" stroke-width="1"/>
+<text x="448" y="226.0" text-anchor="end" font-size="11">2</text>
+<line x1="452" y1="182.0" x2="456" y2="182.0" stroke="#888" stroke-width="1"/>
+<text x="448" y="186.0" text-anchor="end" font-size="11">4</text>
+<line x1="452" y1="142.0" x2="456" y2="142.0" stroke="#888" stroke-width="1"/>
+<text x="448" y="146.0" text-anchor="end" font-size="11">6</text>
+<line x1="452" y1="102.0" x2="456" y2="102.0" stroke="#888" stroke-width="1"/>
+<text x="448" y="106.0" text-anchor="end" font-size="11">8</text>
+<line x1="452" y1="62.0" x2="456" y2="62.0" stroke="#888" stroke-width="1"/>
+<text x="448" y="66.0" text-anchor="end" font-size="11">10</text>
+<line x1="456.0" y1="262" x2="456.0" y2="266" stroke="#888" stroke-width="1"/>
+<text x="456.0" y="280.0" text-anchor="middle" font-size="11">0</text>
+<line x1="505.3" y1="262" x2="505.3" y2="266" stroke="#888" stroke-width="1"/>
+<text x="505.3" y="280.0" text-anchor="middle" font-size="11">2</text>
+<line x1="554.7" y1="262" x2="554.7" y2="266" stroke="#888" stroke-width="1"/>
+<text x="554.7" y="280.0" text-anchor="middle" font-size="11">4</text>
+<line x1="604.0" y1="262" x2="604.0" y2="266" stroke="#888" stroke-width="1"/>
+<text x="604.0" y="280.0" text-anchor="middle" font-size="11">6</text>
+<line x1="653.3" y1="262" x2="653.3" y2="266" stroke="#888" stroke-width="1"/>
+<text x="653.3" y="280.0" text-anchor="middle" font-size="11">8</text>
+<line x1="702.7" y1="262" x2="702.7" y2="266" stroke="#888" stroke-width="1"/>
+<text x="702.7" y="280.0" text-anchor="middle" font-size="11">10</text>
+<line x1="752.0" y1="262" x2="752.0" y2="266" stroke="#888" stroke-width="1"/>
+<text x="752.0" y="280.0" text-anchor="middle" font-size="11">12</text>
+<text x="752" y="298" text-anchor="end" font-size="12">権利行使価格</text>
+<polyline points="456.0,262.0 480.7,251.8 505.3,241.6 530.0,231.4 554.7,218.2 579.3,205.0 604.0,191.8 628.7,175.6 653.3,159.4 678.0,140.2 702.7,121.0 727.3,101.8 752.0,82.6" stroke="#2980b9" stroke-width="2.6" fill="none"/>
+<circle cx="456.0" cy="262.0" r="2.6" fill="#2980b9"/>
+<circle cx="480.7" cy="251.8" r="2.6" fill="#2980b9"/>
+<circle cx="505.3" cy="241.6" r="2.6" fill="#2980b9"/>
+<circle cx="530.0" cy="231.4" r="2.6" fill="#2980b9"/>
+<circle cx="554.7" cy="218.2" r="2.6" fill="#2980b9"/>
+<circle cx="579.3" cy="205.0" r="2.6" fill="#2980b9"/>
+<circle cx="604.0" cy="191.8" r="2.6" fill="#2980b9"/>
+<circle cx="628.7" cy="175.6" r="2.6" fill="#2980b9"/>
+<circle cx="653.3" cy="159.4" r="2.6" fill="#2980b9"/>
+<circle cx="678.0" cy="140.2" r="2.6" fill="#2980b9"/>
+<circle cx="702.7" cy="121.0" r="2.6" fill="#2980b9"/>
+<circle cx="727.3" cy="101.8" r="2.6" fill="#2980b9"/>
+<circle cx="752.0" cy="82.6" r="2.6" fill="#2980b9"/>
+<text x="586.7" y="154.0" font-size="12.5" fill="#2980b9" font-weight="700" text-anchor="middle">プットX</text>
+<polyline points="456.0,262.0 480.7,254.2 505.3,246.4 530.0,238.6 554.7,230.8 579.3,217.6 604.0,204.4 628.7,191.2 653.3,178.0 678.0,164.8 702.7,151.6 727.3,135.4 752.0,119.2" stroke="#c0392b" stroke-width="2.6" fill="none"/>
+<circle cx="456.0" cy="262.0" r="2.6" fill="#c0392b"/>
+<circle cx="480.7" cy="254.2" r="2.6" fill="#c0392b"/>
+<circle cx="505.3" cy="246.4" r="2.6" fill="#c0392b"/>
+<circle cx="530.0" cy="238.6" r="2.6" fill="#c0392b"/>
+<circle cx="554.7" cy="230.8" r="2.6" fill="#c0392b"/>
+<circle cx="579.3" cy="217.6" r="2.6" fill="#c0392b"/>
+<circle cx="604.0" cy="204.4" r="2.6" fill="#c0392b"/>
+<circle cx="628.7" cy="191.2" r="2.6" fill="#c0392b"/>
+<circle cx="653.3" cy="178.0" r="2.6" fill="#c0392b"/>
+<circle cx="678.0" cy="164.8" r="2.6" fill="#c0392b"/>
+<circle cx="702.7" cy="151.6" r="2.6" fill="#c0392b"/>
+<circle cx="727.3" cy="135.4" r="2.6" fill="#c0392b"/>
+<circle cx="752.0" cy="119.2" r="2.6" fill="#c0392b"/>
+<text x="692.8" y="202.0" font-size="12.5" fill="#c0392b" font-weight="700" text-anchor="middle">プットY</text>
+</svg>
