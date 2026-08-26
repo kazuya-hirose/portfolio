@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 790 325" width="790" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Yu Gothic, Noto Sans JP, Meiryo, sans-serif">
+<text x="217.0" y="24" text-anchor="middle" font-size="15" font-weight="700">図3-5　ベータとリスクプレミアム</text>
+<text x="16" y="46" font-size="13.5" fill="#333">リスクプレミアム</text>
+<line x1="62" y1="56" x2="62" y2="271" stroke="#222" stroke-width="1.8"/>
+<line x1="62" y1="271" x2="372" y2="271" stroke="#222" stroke-width="1.8"/>
+<line x1="62.0" y1="271.0" x2="372.0" y2="56.0" stroke="#1f4e9c" stroke-width="3"/>
+<circle cx="217.0" cy="163.5" r="6.5" fill="#fff" stroke="#c0392b" stroke-width="2.8"/>
+<text x="228.0" y="154.5" font-size="17" font-weight="700" fill="#c0392b">M</text>
+<line x1="217.0" y1="163.5" x2="217.0" y2="271" stroke="#999" stroke-width="1.1" stroke-dasharray="4 3"/>
+<text x="217.0" y="290" font-size="14" text-anchor="middle">1</text>
+<text x="52" y="277.0" font-size="15" text-anchor="end">0</text>
+<text x="372" y="309" font-size="14.5" text-anchor="end">ベータ β</text>
+<circle cx="147.2" cy="211.9" r="4.2" fill="#2e7d32"/>
+<text x="142.2" y="232.9" font-size="14" fill="#2e7d32" font-weight="700">P</text>
+<circle cx="286.8" cy="115.1" r="4.2" fill="#2e7d32"/>
+<text x="281.8" y="136.1" font-size="14" fill="#2e7d32" font-weight="700">Q</text>
+<text x="612.0" y="24" text-anchor="middle" font-size="15" font-weight="700">図3-6　証券市場線（SML）</text>
+<text x="411" y="46" font-size="13.5" fill="#333">期待リターン</text>
+<line x1="457" y1="56" x2="457" y2="271" stroke="#222" stroke-width="1.8"/>
+<line x1="457" y1="271" x2="767" y2="271" stroke="#222" stroke-width="1.8"/>
+<line x1="457.0" y1="217.2" x2="767.0" y2="2.2" stroke="#1f4e9c" stroke-width="3"/>
+<circle cx="612.0" cy="109.8" r="6.5" fill="#fff" stroke="#c0392b" stroke-width="2.8"/>
+<text x="623.0" y="100.8" font-size="17" font-weight="700" fill="#c0392b">M</text>
+<line x1="612.0" y1="109.8" x2="612.0" y2="271" stroke="#999" stroke-width="1.1" stroke-dasharray="4 3"/>
+<text x="612.0" y="290" font-size="14" text-anchor="middle">1</text>
+<text x="447" y="223.2" font-size="16" text-anchor="end">r<tspan font-size="12" dy="4">f</tspan></text>
+<circle cx="457.0" cy="217.2" r="4" fill="#1f4e9c"/>
+<text x="767" y="309" font-size="14.5" text-anchor="end">ベータ β</text>
+<circle cx="542.2" cy="158.1" r="4.2" fill="#2e7d32"/>
+<text x="537.2" y="179.1" font-size="14" fill="#2e7d32" font-weight="700">P</text>
+<circle cx="681.8" cy="61.4" r="4.2" fill="#2e7d32"/>
+<text x="676.8" y="82.4" font-size="14" fill="#2e7d32" font-weight="700">Q</text>
+</svg>
