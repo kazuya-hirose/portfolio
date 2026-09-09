@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 380" width="680" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Yu Gothic, Noto Sans JP, Meiryo, sans-serif">
+<text x="340.0" y="30" text-anchor="middle" font-size="17" font-weight="700">情報効率性の3つのタイプ（入れ子構造）</text>
+<circle cx="250" cy="205" r="150" fill="#eef2fb" stroke="#2f5597" stroke-width="2.2"/>
+<circle cx="250" cy="205" r="103" fill="#e6efe7" stroke="#2e7d32" stroke-width="2.2"/>
+<circle cx="250" cy="205" r="56" fill="#fbeeee" stroke="#8a2b2b" stroke-width="2.2"/>
+<text x="250" y="87" text-anchor="middle" font-size="15" font-weight="700" fill="#2f5597">ストロング型</text>
+<text x="250" y="133" text-anchor="middle" font-size="15" font-weight="700" fill="#2e7d32">セミストロング型</text>
+<text x="250" y="203" text-anchor="middle" font-size="15" font-weight="700" fill="#8a2b2b">ウィーク型</text>
+<text x="250" y="225" text-anchor="middle" font-size="12.5" fill="#8a2b2b">過去の価格</text>
+<text x="250" y="285" text-anchor="middle" font-size="12.5" fill="#2e7d32">＋すべての公開情報</text>
+<text x="250" y="333" text-anchor="middle" font-size="12.5" fill="#2f5597">＋未公開の内部情報</text>
+<rect x="430" y="102" width="14" height="14" fill="#8a2b2b" opacity="0.75"/>
+<text x="452" y="114" font-size="14" font-weight="700" fill="#8a2b2b">ウィーク型</text>
+<text x="452" y="136" font-size="12.5" fill="#333">テクニカル分析の否定</text>
+<rect x="430" y="178" width="14" height="14" fill="#2e7d32" opacity="0.75"/>
+<text x="452" y="190" font-size="14" font-weight="700" fill="#2e7d32">セミストロング型</text>
+<text x="452" y="212" font-size="12.5" fill="#333">ファンダメンタル分析の否定</text>
+<rect x="430" y="254" width="14" height="14" fill="#2f5597" opacity="0.75"/>
+<text x="452" y="266" font-size="14" font-weight="700" fill="#2f5597">ストロング型</text>
+<text x="452" y="288" font-size="12.5" fill="#333">インサイダー取引でも儲からない</text>
+<text x="430" y="350" font-size="12.5" fill="#555">外側ほど強い仮説（情報集合が大きい）</text>
+</svg>

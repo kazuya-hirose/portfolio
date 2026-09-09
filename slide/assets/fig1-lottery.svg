@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 270" width="660" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Yu Gothic, Noto Sans JP, Meiryo, sans-serif">
+<text x="330" y="34" text-anchor="middle" font-size="17" font-weight="700">図1-1　確率くじ</text>
+<text x="68" y="157" font-size="20" font-style="italic" text-anchor="end">X</text>
+<line x1="80" y1="150" x2="185" y2="78" stroke="#222" stroke-width="1.9"/>
+<line x1="80" y1="150" x2="185" y2="222" stroke="#222" stroke-width="1.9"/>
+<text x="120" y="102" font-size="15">1/2</text>
+<text x="120" y="212" font-size="15">1/2</text>
+<text x="194" y="82" font-size="18">100 円</text>
+<text x="194" y="228" font-size="18">50 円</text>
+<text x="398" y="157" font-size="20" font-style="italic" text-anchor="end">Y</text>
+<line x1="410" y1="150" x2="515" y2="78" stroke="#222" stroke-width="1.9"/>
+<line x1="410" y1="150" x2="515" y2="222" stroke="#222" stroke-width="1.9"/>
+<text x="450" y="102" font-size="15">1/2</text>
+<text x="450" y="212" font-size="15">1/2</text>
+<text x="524" y="82" font-size="18">120 円</text>
+<text x="524" y="228" font-size="18">40 円</text>
+</svg>

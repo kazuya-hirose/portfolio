@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 332" width="680" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Yu Gothic, Noto Sans JP, Meiryo, sans-serif">
+<text x="340.0" y="26" text-anchor="middle" font-size="17" font-weight="700">図7-16　フォワード契約の価値（±50% モデル）</text>
+<line x1="120" y1="178" x2="350" y2="118" stroke="#333" stroke-width="1.8"/>
+<line x1="120" y1="178" x2="350" y2="238" stroke="#333" stroke-width="1.8"/>
+<line x1="350" y1="118" x2="580" y2="58" stroke="#333" stroke-width="1.8"/>
+<line x1="350" y1="118" x2="580" y2="178" stroke="#333" stroke-width="1.8"/>
+<line x1="350" y1="238" x2="580" y2="178" stroke="#333" stroke-width="1.8"/>
+<line x1="350" y1="238" x2="580" y2="298" stroke="#333" stroke-width="1.8"/>
+<circle cx="120" cy="178" r="6" fill="#222"/>
+<text x="107" y="165" text-anchor="end" font-size="15" font-weight="700">S=¥100</text>
+<text x="107" y="187" text-anchor="end" font-size="14.5" fill="#c0392b" font-weight="700">F=¥36</text>
+<circle cx="350" cy="118" r="6" fill="#222"/>
+<text x="350" y="86" text-anchor="middle" font-size="15" font-weight="700">S=¥150</text>
+<text x="350" y="104" text-anchor="middle" font-size="14.5" fill="#c0392b" font-weight="700">F=¥70</text>
+<circle cx="350" cy="238" r="6" fill="#222"/>
+<text x="350" y="206" text-anchor="middle" font-size="15" font-weight="700">S=¥50</text>
+<text x="350" y="224" text-anchor="middle" font-size="14.5" fill="#c0392b" font-weight="700">F=−¥30</text>
+<circle cx="580" cy="58" r="6" fill="#222"/>
+<text x="593" y="45" text-anchor="start" font-size="15" font-weight="700">S=¥225</text>
+<text x="593" y="67" text-anchor="start" font-size="14.5" fill="#c0392b" font-weight="700">F=¥125</text>
+<circle cx="580" cy="178" r="6" fill="#222"/>
+<text x="593" y="165" text-anchor="start" font-size="15" font-weight="700">S=¥75</text>
+<text x="593" y="187" text-anchor="start" font-size="14.5" fill="#c0392b" font-weight="700">F=−¥25</text>
+<circle cx="580" cy="298" r="6" fill="#222"/>
+<text x="593" y="285" text-anchor="start" font-size="15" font-weight="700">S=¥25</text>
+<text x="593" y="307" text-anchor="start" font-size="14.5" fill="#c0392b" font-weight="700">F=−¥75</text>
+<text x="120" y="324" text-anchor="middle" font-size="13.5">t = 0</text>
+<text x="350" y="324" text-anchor="middle" font-size="13.5">t = 1</text>
+<text x="580" y="324" text-anchor="middle" font-size="13.5">t = 2</text>
+<line x1="80" y1="302" x2="620" y2="302" stroke="#555" stroke-width="1.2"/>
+<line x1="120" y1="296" x2="120" y2="308" stroke="#555" stroke-width="1.2"/>
+<line x1="350" y1="296" x2="350" y2="308" stroke="#555" stroke-width="1.2"/>
+<line x1="580" y1="296" x2="580" y2="308" stroke="#555" stroke-width="1.2"/>
+<text x="340.0" y="290" text-anchor="middle" font-size="13" fill="#555">リスク中立確率は q′=3/4（上昇）・1/4（下落）。それでも初期値は 36 円のまま。</text>
+</svg>
